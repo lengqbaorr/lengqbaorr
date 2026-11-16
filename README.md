@@ -18,7 +18,7 @@ I'm Quốc Bảo, affiliated with the University of Information Technology (UIT)
 
 ## GitHub stats
 
-[![GitHub stats as of November 16, 2026: 288 contributions and a longest streak of 9 days in the past year, plus 43 public repositories.](assets/stats.png)](https://github.com/lengqbaorr#contribution-activity)
+![GitHub stats as of November 16, 2026: 288 contributions and a longest streak of 9 days in the past year, plus 43 public repositories.](assets/stats.png)
 
 ## Featured projects
 
