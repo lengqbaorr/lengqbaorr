@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/forest-banner-en.jpg" alt="Le Nguyen Quoc Bao · github.com/lengqbaorr · University of Information Technology" />
+  <img src="assets/forest-banner-script.jpg" alt="Le Nguyen Quoc Bao · github.com/lengqbaorr · University of Information Technology" />
 </p>
 
 ---
