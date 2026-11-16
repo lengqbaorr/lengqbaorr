@@ -1,6 +1,24 @@
-![Lê Nguyễn Quốc Bảo · @lengqbaorr. A teal circuit board illustration.](assets/banner.png)
+![Lê Nguyễn Quốc Bảo · @lengqbaorr · Computer Vision, Document AI, and RAG](assets/banner.png)
 
-I build applied AI projects around computer vision, document understanding, and retrieval-augmented generation (RAG). My repositories explore the full pipeline, from training and evaluation to inference and deployment.
+<img src="assets/portrait.png" align="right" width="28%" alt="Portrait of Lê Nguyễn Quốc Bảo drawn with lavender punctuation and symbols" />
+
+## Connect with me
+
+<a href="https://github.com/lengqbaorr?tab=repositories"><img src="assets/github-repositories.png" width="184" alt="Browse my GitHub repositories" /></a>
+
+## About me
+
+I'm Quốc Bảo, affiliated with the University of Information Technology (UIT).
+
+- I build applied AI projects in computer vision, document understanding, and RAG.
+- My projects cover data preparation, model training, evaluation, and deployment.
+- I work with Python, Jupyter, FastAPI, and React.
+
+<br clear="all" />
+
+## GitHub stats
+
+[![GitHub stats as of November 16, 2026: 288 contributions and a longest streak of 9 days in the past year, plus 43 public repositories.](assets/stats.png)](https://github.com/lengqbaorr#contribution-activity)
 
 ## Featured projects
 
