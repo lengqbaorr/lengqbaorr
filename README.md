@@ -1,47 +1,36 @@
-![Lê Nguyễn Quốc Bảo · @lengqbaorr · Computer Vision, Document AI, and RAG](assets/neon-banner.png)
+<p align="center">
+  <img src="assets/forest-banner.jpg" alt="Lê Nguyễn Quốc Bảo · github.com/lengqbaorr · University of Information Technology" />
+</p>
 
-<table align="right"><tr><td><pre title="Unicode portrait of Lê Nguyễn Quốc Bảo">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⡀
-⠀⠀⠀⠀⠀⠀⠀⡀⠄⠂⠡⠠⠀⢁⠐⠈⠡⠱⣄
-⠀⠀⠀⠀⠀⠠⠐⠠⠈⢀⠁⠄⠐⠀⢈⠀⠂⡀⠈⢧
-⠀⠀⠀⠀⠠⠁⠐⠀⡁⠄⠐⠀⡁⢈⠀⡀⠂⠀⢂⠀⠅
-⠀⠀⠀⠀⡐⠈⢀⠁⡀⠂⢈⠠⠀⠄⠠⢀⠈⠄⠠⢀⠠
-⠀⠀⠀⠀⢂⠁⠄⠐⠠⢈⠠⢀⠐⡀⢂⠀⡐⠀⠂⠠⠈
-⠀⠀⠀⠀⠡⠐⠀⡁⠂⢂⠄⢀⠐⡀⠂⠄⠄⡑⡌⢀⠁
-⠀⠀⠀⠀⡨⡐⡠⡪⣙⡩⣱⠆⣆⢰⣋⢙⡩⣢⠠⢨⢀
-⠀⠀⠀⠀⢼⡃⣇⠽⢷⣯⡟⢰⣷⠠⣟⣯⣗⠗⡔⢸⢕
-⠀⠀⠀⠀⢱⣕⢝⣽⢶⣶⢼⢛⢟⢳⢬⣬⡬⡮⡢⢝⠅
-⠀⠀⠀⠀⠀⠫⡮⡯⡯⡯⣟⢽⢽⢵⣫⢷⢽⢱⠪⠁
-⠀⠀⠀⠀⠀⠈⢎⡯⡯⣳⢦⡳⡞⡔⣬⢧⢫⢊⠆
-⠀⠀⠀⠀⠀⠀⠑⡇⡏⣗⡿⣞⣯⡯⣺⡱⢑⠌
-⠀⠀⠀⠀⠀⠀⠀⠨⢮⡲⣙⢕⢓⠏⡂⡮⡵⡅⠄
-⠀⠀⠀⠀⢀⠠⠂⠑⣿⢽⢮⡺⡮⣺⢜⣮⢗⣕⠇⠈⠐⠀⠄⡀
-⠀⡀⠔⠐⠀⠄⠐⢀⠉⠿⣯⣯⢯⣺⣵⣳⠟⠂⢀⠁⡈⠠⠀⢀⠁
-⠈⡀⠐⢀⠁⠄⠐⢀⠐⠀⠠⠈⠉⠈⠂⠀⠄⡀⠂⢀⠐⢀⠁⠄
-⠀⠄⠐⠀⠄⠂⠐⠀⠄⠁⠂⢈⠀⡁⢈⠠⠀⠄⠈⠀⠄⢀⠐⠀⠁</pre></td></tr></table>
+---
 
-## Connect with me
+<p align="center">
+  <a href="https://github.com/lengqbaorr?tab=repositories"><img src="assets/badge-github.png" width="83" alt="GitHub repositories" /></a>
+  <a href="https://github.com/lengqbaorr/PCB-AOI"><img src="assets/badge-pcb-aoi.png" width="91" alt="PCB-AOI" /></a>
+  <a href="https://github.com/lengqbaorr/ReceiptGraphKIE"><img src="assets/badge-receipt-graph.png" width="129" alt="ReceiptGraphKIE" /></a>
+  <a href="https://github.com/lengqbaorr/RAG-chatbot"><img src="assets/badge-rag-chatbot.png" width="121" alt="RAG Chatbot" /></a>
+</p>
 
-<a href="https://github.com/lengqbaorr?tab=repositories"><img src="assets/github-repositories.png" width="184" alt="Browse my GitHub repositories" /></a>
+<p align="center">
+  <img src="assets/greeting.png" width="600" alt="Hi there 👋, &lt;devs /&gt;" />
+</p>
 
-## About me
+<p align="center">
+  I’m Quốc Bảo from the University of Information Technology (UIT). I build applied AI projects in computer vision, document understanding, and retrieval-augmented generation (RAG).
+</p>
 
-I'm Quốc Bảo, affiliated with the University of Information Technology (UIT).
+<h2 align="center">Tech Stack</h2>
 
-- I build applied AI projects in computer vision, document understanding, and RAG.
-- My projects cover data preparation, model training, evaluation, and deployment.
-- I work with Python, Jupyter, FastAPI, and React.
+<p align="center">
+  <img src="assets/tech-stack.png" width="540" alt="Python, PyTorch, OpenCV, Jupyter, FastAPI, Docker, Prometheus, Git, React, TypeScript, JavaScript, HTML, CSS, Node.js, Vite, and GitHub" />
+</p>
 
-<br clear="all" />
+<h2 align="center">Statistics</h2>
 
-## GitHub stats
+<p align="center">
+  <img src="assets/statistics.png" alt="Public GitHub snapshot on November 16, 2026. 43 public repositories, including 16 source repositories. 1 star, 292 contributions, and 76 active days in the past year. Public source repositories by language bytes: Jupyter Notebook 76.0%, Python 18.4%, TypeScript 2.6%, HTML 1.9%, JavaScript 0.6%, and other languages 0.4%." />
+</p>
 
-![GitHub stats as of November 16, 2026: 288 contributions and a longest streak of 9 days in the past year, plus 43 public repositories.](assets/stats.png)
+---
 
-## Featured projects
-
-| Project | What it does |
-| --- | --- |
-| [**PCB-AOI**](https://github.com/lengqbaorr/PCB-AOI) | Automated optical inspection for circuit boards, with model training, inference, and a dashboard for reviewing defects. |
-| [**ReceiptGraphKIE**](https://github.com/lengqbaorr/ReceiptGraphKIE) | Extracts structured fields from receipt images using LayoutLMv3, spatial graphs, and a CRF. |
-| [**RAG Chatbot**](https://github.com/lengqbaorr/RAG-chatbot) | Answers questions over uploaded documents and images using a FastAPI backend and a React interface. |
-| [**Realtime Translator**](https://github.com/lengqbaorr/realtime-translator) | Captures Windows system audio and transcribes it live with sherpa-onnx. |
+<p align="center"><strong>With ❤️ from Quốc Bảo</strong></p>
