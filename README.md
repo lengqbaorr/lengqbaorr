@@ -1,6 +1,23 @@
-![Lê Nguyễn Quốc Bảo · @lengqbaorr · Computer Vision, Document AI, and RAG](assets/banner.png)
+![Lê Nguyễn Quốc Bảo · @lengqbaorr · Computer Vision, Document AI, and RAG](assets/neon-banner.png)
 
-<img src="assets/portrait.png" align="right" width="28%" alt="Portrait of Lê Nguyễn Quốc Bảo drawn with lavender punctuation and symbols" />
+<table align="right"><tr><td><pre title="Unicode portrait of Lê Nguyễn Quốc Bảo">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⡀
+⠀⠀⠀⠀⠀⠀⠀⡀⠄⠂⠡⠠⠀⢁⠐⠈⠡⠱⣄
+⠀⠀⠀⠀⠀⠠⠐⠠⠈⢀⠁⠄⠐⠀⢈⠀⠂⡀⠈⢧
+⠀⠀⠀⠀⠠⠁⠐⠀⡁⠄⠐⠀⡁⢈⠀⡀⠂⠀⢂⠀⠅
+⠀⠀⠀⠀⡐⠈⢀⠁⡀⠂⢈⠠⠀⠄⠠⢀⠈⠄⠠⢀⠠
+⠀⠀⠀⠀⢂⠁⠄⠐⠠⢈⠠⢀⠐⡀⢂⠀⡐⠀⠂⠠⠈
+⠀⠀⠀⠀⠡⠐⠀⡁⠂⢂⠄⢀⠐⡀⠂⠄⠄⡑⡌⢀⠁
+⠀⠀⠀⠀⡨⡐⡠⡪⣙⡩⣱⠆⣆⢰⣋⢙⡩⣢⠠⢨⢀
+⠀⠀⠀⠀⢼⡃⣇⠽⢷⣯⡟⢰⣷⠠⣟⣯⣗⠗⡔⢸⢕
+⠀⠀⠀⠀⢱⣕⢝⣽⢶⣶⢼⢛⢟⢳⢬⣬⡬⡮⡢⢝⠅
+⠀⠀⠀⠀⠀⠫⡮⡯⡯⡯⣟⢽⢽⢵⣫⢷⢽⢱⠪⠁
+⠀⠀⠀⠀⠀⠈⢎⡯⡯⣳⢦⡳⡞⡔⣬⢧⢫⢊⠆
+⠀⠀⠀⠀⠀⠀⠑⡇⡏⣗⡿⣞⣯⡯⣺⡱⢑⠌
+⠀⠀⠀⠀⠀⠀⠀⠨⢮⡲⣙⢕⢓⠏⡂⡮⡵⡅⠄
+⠀⠀⠀⠀⢀⠠⠂⠑⣿⢽⢮⡺⡮⣺⢜⣮⢗⣕⠇⠈⠐⠀⠄⡀
+⠀⡀⠔⠐⠀⠄⠐⢀⠉⠿⣯⣯⢯⣺⣵⣳⠟⠂⢀⠁⡈⠠⠀⢀⠁
+⠈⡀⠐⢀⠁⠄⠐⢀⠐⠀⠠⠈⠉⠈⠂⠀⠄⡀⠂⢀⠐⢀⠁⠄
+⠀⠄⠐⠀⠄⠂⠐⠀⠄⠁⠂⢈⠀⡁⢈⠠⠀⠄⠈⠀⠄⢀⠐⠀⠁</pre></td></tr></table>
 
 ## Connect with me
 
