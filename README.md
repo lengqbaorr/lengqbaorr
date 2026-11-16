@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/lengqbaorr?tab=repositories"><img src="assets/badge-github.png" width="83" alt="GitHub repositories" /></a>
+  <a href="https://www.linkedin.com/in/lnqbao25/"><img src="assets/badge-linkedin.png" width="100" alt="LinkedIn profile" /></a>
   <a href="https://github.com/lengqbaorr/PCB-AOI"><img src="assets/badge-pcb-aoi.png" width="91" alt="PCB-AOI" /></a>
   <a href="https://github.com/lengqbaorr/ReceiptGraphKIE"><img src="assets/badge-receipt-graph.png" width="129" alt="ReceiptGraphKIE" /></a>
   <a href="https://github.com/lengqbaorr/RAG-chatbot"><img src="assets/badge-rag-chatbot.png" width="121" alt="RAG Chatbot" /></a>
